@@ -32,11 +32,7 @@
 │             │         │    │     :
 │             │         │    │     └── program_n.c
 │             │         │    │
-│             │         │    └── executable_files
-│			  │			│    		├── progam_1
-│             │         │          	├── program_2
-│             │         │          	:
-│             │         │          	└── program_n
+│             │         │    └── executable_files       
 │             │         │
 │             │         └── README.md(contains the questions along with images showing the final outout)
 │             │
@@ -82,7 +78,8 @@ example:
 (2) ./program_1
 ```
 ## Chapter Description:
-   1. CHAPTER 1
-   			├── ARRAYS
-   			└── STRINGS 
-
+```bash
+1. CHAPTER 1
+        ├── ARRAYS
+        └── STRINGS 
+```
