@@ -33,6 +33,10 @@
 │             │         │    │     └── program_n.c
 │             │         │    │
 │             │         │    └── executable_files
+│			  │			│    		├── progam_1
+│             │         │          	├── program_2
+│             │         │          	:
+│             │         │          	└── program_n
 │             │         │
 │             │         └── README.md(contains the questions along with images showing the final outout)
 │             │
@@ -77,5 +81,8 @@ example:
 (1) gcc -o program_1 program_1.c
 (2) ./program_1
 ```
-
+## Chapter Description:
+   1. CHAPTER 1
+   			├── ARRAYS
+   			└── STRINGS 
 
