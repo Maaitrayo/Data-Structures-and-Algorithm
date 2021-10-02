@@ -9,5 +9,7 @@
 		├── 5. program_5.c -- Find out the transpose of a Matrix
 		└── 6. program_6.c -- Find out the multiplication of two Matrix
 
-##  Array Program Outputs:
+##  Array Program Outputs(follows above order):
 ![](images/program_1.png)
+
+![](images/program_2.png)
