@@ -39,7 +39,7 @@ int main(){
 	printf("\n------- SUBTRACTING THE 2 MATRIX -------\n");
 	for(i = 0; i < row_2; i++){
 		for(j = 0; j < col_2; j++){
-			arr_sum[i][j] = array_1[i][j] + array_2[i][j];
+			arr_sum[i][j] = array_1[i][j] - array_2[i][j];
 		}
 	}
 
