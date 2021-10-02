@@ -20,7 +20,7 @@ int main(){
 		return 0;
 	}
 
-	int array_1[row_1][col_1], array_2[row_2][col_2], arr_sum[row_1][col_1];
+	int array_1[row_1][col_1], array_2[row_2][col_2], arr_sub[row_1][col_1];
 
 	printf("\n------- ENTER ELEMENTS OF FIRST MATRIX -------\n");
 	for(i = 0; i < row_1; i++){
@@ -39,7 +39,7 @@ int main(){
 	printf("\n------- SUBTRACTING THE 2 MATRIX -------\n");
 	for(i = 0; i < row_2; i++){
 		for(j = 0; j < col_2; j++){
-			arr_sum[i][j] = array_1[i][j] - array_2[i][j];
+			arr_sub[i][j] = array_1[i][j] - array_2[i][j];
 		}
 	}
 
@@ -62,7 +62,7 @@ int main(){
 	printf("\n------- RESULTING SUBTRACTED MATRIX -------\n");
 	for(i = 0; i < row_2; i++){
 		for(j = 0; j < col_2; j++){
-			printf("\t%d\t", arr_sum[i][j]);
+			printf("\t%d\t", arr_sub[i][j]);
 		}
 		printf("\n");
 	}
