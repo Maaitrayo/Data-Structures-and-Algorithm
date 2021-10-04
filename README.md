@@ -5,7 +5,7 @@
 ```bash
 ├── Main Interface
 │             ├── CHAPTER 1
-│             │         ├── images
+│             │         ├── images(contains all the output window images for better visualization)
 │             │         │
 │             │         ├── src
 │             │         │    ├── code
@@ -20,7 +20,7 @@
 │             │         │          :
 │             │         │          └── program_n
 │             │         │
-│             │         └── README.md(contains the questions along with images showing the final outout)
+│             │         └── README.md(contains the questions)
 │             │
 │             ├── CHAPTER 2
 │             │         ├── images
