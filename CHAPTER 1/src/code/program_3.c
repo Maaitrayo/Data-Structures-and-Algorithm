@@ -37,7 +37,7 @@ int main(){
 		for(j = 0; j <= col_1; j++){
 			printf("\t%d\t", array_1[i][j]);
 		}
-		if(i == row_1-1){ // This if statement helps us in  not printing the bottom right element as 0
+		if(i == row_1-1){ // This if statement helps us in  not printing the bottom right element as 0 for better understanding 
 			col_1-=1;
 		}
 		printf("\n");
