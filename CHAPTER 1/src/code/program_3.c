@@ -32,7 +32,7 @@ int main(){
 		}
 	}
 
-	printf("\n------- RESULTING MATRIX SHOWING SUM OF ROW AND COLUMN IN RESPECTIVE ROW AND COLUMN-------\n");
+	printf("\n------- RESULTING MATRIX SHOWING SUM OF ROW AND COLUMN -------\n");
 	for(i = 0; i <= row_1; i++){
 		for(j = 0; j <= col_1; j++){
 			printf("\t%d\t", array_1[i][j]);
