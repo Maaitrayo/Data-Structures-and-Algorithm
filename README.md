@@ -43,7 +43,7 @@
 └── END
 ```
 # My Environment set-up:
-1. SUBLIME TEXT
+1. SUBLIME TEXT / VS CODE
 2. GCC Compiler
 3. OS - Ubuntu 20.04.3 LTS
 4. Architecture - 64-bit
