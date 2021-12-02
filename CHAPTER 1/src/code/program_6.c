@@ -12,7 +12,7 @@ int main(){
     printf("Enter the number of columns of second Matrix: ");
     scanf("%d", &col_2);
 
-    int array_1[row_1][col_1], array_2[row_2][col_2];
+    int array_1[row_1][col_1], array_2[row_2][col_2]; // initializing the arrays
     if(col_1 != row_2){
         printf("\nNumber of columns of first Matrix should be equal to the number of rows of second Matrix");
         return 0;
@@ -50,6 +50,5 @@ int main(){
         }
         printf("\n");
     }
-
     return 0;
 }
