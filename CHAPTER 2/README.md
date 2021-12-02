@@ -7,7 +7,8 @@
 		├── 3. program_3.c -- Reversing a String.
 		├── 4. program_4.c -- Check whether a string is Palindrome or not.
 		├── 5. program_5.c -- Copying a string without using strcpy() function. 
-		└── 6. program_6.c -- Copying a string using strcpy() function.
-		└── 7. program_7.c -- joining two strings without using any fuction.
+		├── 6. program_6.c -- Copying a string using strcpy() function.
+		├── 7. program_7.c -- joining two strings without using any fuction.
+		└── 8. program_8.c -- Comparison of two strings.
 
 ##  Check the images folder for all string Program Outputs(follows above order).
