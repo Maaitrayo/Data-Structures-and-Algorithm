@@ -11,6 +11,6 @@
 		├── 7. program_7.c --  joining two strings without using any fuction.
 		├── 8. program_8.c --  Comparison of two strings.
 		├── 9. program_9.c --  Comparison of two strings using strcmp() function.
-		└── 10. progam_10.c -- Substring from a string without using any functions.
-
+		├── 10. progam_10.c -- Substring from a string without using any functions.
+		└── 11. program_11.c -- lower to upper and vice versa transformations using string functions.
 ##  Check the images folder for all string Program Outputs(follows above order).
