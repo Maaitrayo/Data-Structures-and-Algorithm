@@ -9,6 +9,7 @@
 		├── 5. program_5.c -- Copying a string without using strcpy() function. 
 		├── 6. program_6.c -- Copying a string using strcpy() function.
 		├── 7. program_7.c -- joining two strings without using any fuction.
-		└── 8. program_8.c -- Comparison of two strings.
+		├── 8. program_8.c -- Comparison of two strings.
+		└── 9. program_9.c -- Comparison of two strings using strcmp() function.
 
 ##  Check the images folder for all string Program Outputs(follows above order).
